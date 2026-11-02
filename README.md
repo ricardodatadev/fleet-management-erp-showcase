@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/789b37f1-0dd1-4c89-989f-8f4724083bd5
+
 # GOF — Gestão Operacional de Frotas
 
 Monorepo da Fase 1 (fundação + cadastros). Fonte de verdade da fase: especificação `fase-1-especificacao` (v1.14). Evidências do gate: [`docs/phase-1-evidence.md`](docs/phase-1-evidence.md).
